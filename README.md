@@ -8,20 +8,19 @@
 
  1. Describe the purpose of Big 0.
 
-  Big O is a way to measure algorithms by the speed and memory needed to measure
-  overall complexity of an algorithm. Gives the relative efficiency as a
-  function of the size of the input. Big O will give you the worst case scenario
-  for the algorithm.
+  Big O is a way to measure algorithms by the speed and memory needed to
+  determine
+  overall complexity of an algorithm. Gives the relative efficiency as a function
+  of the size of the input. Big O will give you the worst case scenario for the
+  algorithm.
 
 ---
-
 
  2. What 2 things does it measure?
 
     Time(Speed) & Space(Memory Footprint)
 
 ---
-
 
  3. Which of the following shows Big O time complexity in order?
 
@@ -35,8 +34,6 @@
 
 ---
 
-
-
 4. Which of these algorithm(s) run in O(log n) time?
 
    Binary Search
@@ -47,11 +44,9 @@
 
    Linear Search
 
-   Binary Search will run in O(log n) time
+   -Binary Search will run in O(log n) time
 
 ---
-
-
 
 5. Select the best time complexity that even the most efficient sort algorithm can have.
 
@@ -68,7 +63,6 @@
 
 ---
 
-
  6. Describe what sets these these 3 complexities apart from each other: O(1), O(n) and O(n^2)
 
     O(1) describes an algorithm that will always execute in the same time
@@ -78,7 +72,6 @@
     O(n^2) describes an algorithm whose performance is directly proportional to
     the square of the size of the input data set.
 ---
-
 
 7. How would you recognize O(log n) and O(n log n) time complexities in a function?
 

@@ -5,11 +5,10 @@
 
 //   1. O(1)
 function iGot99Problems() {
-  for (let i=0; i<99; i++) {
+  for (let i=0; i<100; i++) {
     console.log(i);
   }
 }
-
 
 //   2. O(n)
 
@@ -20,7 +19,6 @@ function timesTwo(array) {
   }
   return newArray;
 }
-
 
 //   3. O(n^2)
 
